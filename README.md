@@ -59,22 +59,20 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryadi346-star&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryadi346-star&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadi346-star&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
@@ -91,6 +89,6 @@ Most of my projects are open source. Check individual repositories for specific 
 <div align="center">
 
 *Made with ❤️ by* [suryadi346-star](https://github.com/suryadi346-star?tab=repositories)
-*Last updated: 2026-03-03*
+*Last updated: 2026-04-29*
 
 </div>
